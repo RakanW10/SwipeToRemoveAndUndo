@@ -11,7 +11,7 @@ import SwiftUI
 struct SwipeToRemoveAndUndoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
